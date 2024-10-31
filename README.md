@@ -10,7 +10,7 @@ Proficient in Design with Adobe - Photoshop, Fresco, Illustrator, Premier Pro, a
 Familiar in Programming Languages with SQL, Python, and R
 Familiar with Web Design - HTML, CSS, Dreamweaver, and Wix
 
-Work Experience
+### Work Experience
 Life We Deserve, Vienna, VA (Sept 2023 - Present)
 Registered Behavioral Technician
 ●	Implementing treatment programs resulting in a 45% reduction in negative behaviors over a 3- to 6-month period
